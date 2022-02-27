@@ -1,0 +1,19 @@
+.odd {
+    background-color: #fd6188;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second-el {
+    color: #2600ff;
+    font-size: 36px;
+}
+
+.big-odd {
+    font-size: 24px;
+}
+
+#fourth-el {
+    background-color: #7fff7b;
+    font-size: 24px;
+    font-weight: bold;
+}
